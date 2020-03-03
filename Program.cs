@@ -47,6 +47,7 @@ namespace CatWorx.BadgeMaker
 
             //Calls the PrintEmployees function passing the employees as a parameter
             Util.PrintEmployees(employees);
+            Util.MakeCSV(employees);
         }
     }
 }

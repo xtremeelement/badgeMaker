@@ -23,7 +23,7 @@ namespace CatWorx.BadgeMaker
 
         public string GetName()
         {
-            return ($"Name: {FirstName} {LastName} \nID:{Id}\nPhoto:{PhotoUrl}\n");
+            return ($"{FirstName} {LastName}");
         }
 
         public int GetId()
