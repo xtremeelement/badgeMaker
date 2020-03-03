@@ -14,34 +14,29 @@ namespace CatWorx.BadgeMaker
             while (true)
             {
                 Console.WriteLine("Please enter a name or leave blank to exit:");
-                string input = Console.ReadLine();
+                string firstName = Console.ReadLine();
 
-                if (input == "")
+                if (firstName == "")
                 {
                     break;
                 }
 
+                Console.WriteLine("Enter Last Name:");
+                string lastName = Console.ReadLine();
+
+                Console.WriteLine("Enter ID:");
+                int id = Int32.Parse(Console.ReadLine());
+
+                Console.WriteLine("Enter Photo URL:");
+                string photoUrl = Console.ReadLine();
+
                 //Instantiate new employee from Employee.cs to create a new Employee instance
-                Employee currentEmployee = new Employee(input, "Smith");
+                Employee currentEmployee = new Employee(firstName, lastName, id, photoUrl);
                 //Adds the employees name by using the GetName method from Employee.cs using the parameters passed in above
                 employees.Add(currentEmployee);
             }
 
             return employees;
-        }
-
-        //Function to iterate through the employee list and prints to console
-        static void PrintEmployees(List<Employee> employees)
-        {
-            foreach (Employee employee in employees)
-            {
-                Console.WriteLine(employee.GetName());
-            }
-
-            // for (int i = 0; i < employees.Count; i++)
-            // {         
-            //     Console.WriteLine(employees[i].GetName());
-            // }
         }
 
         //Entry point to application
@@ -51,7 +46,7 @@ namespace CatWorx.BadgeMaker
             List<Employee> employees = GetEmployees();
 
             //Calls the PrintEmployees function passing the employees as a parameter
-            PrintEmployees(employees);
+            Util.PrintEmployees(employees);
         }
     }
 }
