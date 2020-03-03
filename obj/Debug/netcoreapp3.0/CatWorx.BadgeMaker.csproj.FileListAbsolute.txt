@@ -1,0 +1,11 @@
+g:\BLazOR\Documents\Coding-Bootcamp\UCF-ORL-FSF-FT-11-2019-U-C\01-Class-Content\Power-Packs\C#\CatWorx.BadgeMaker\bin\Debug\netcoreapp3.0\CatWorx.BadgeMaker.exe
+g:\BLazOR\Documents\Coding-Bootcamp\UCF-ORL-FSF-FT-11-2019-U-C\01-Class-Content\Power-Packs\C#\CatWorx.BadgeMaker\bin\Debug\netcoreapp3.0\CatWorx.BadgeMaker.deps.json
+g:\BLazOR\Documents\Coding-Bootcamp\UCF-ORL-FSF-FT-11-2019-U-C\01-Class-Content\Power-Packs\C#\CatWorx.BadgeMaker\bin\Debug\netcoreapp3.0\CatWorx.BadgeMaker.runtimeconfig.json
+g:\BLazOR\Documents\Coding-Bootcamp\UCF-ORL-FSF-FT-11-2019-U-C\01-Class-Content\Power-Packs\C#\CatWorx.BadgeMaker\bin\Debug\netcoreapp3.0\CatWorx.BadgeMaker.runtimeconfig.dev.json
+g:\BLazOR\Documents\Coding-Bootcamp\UCF-ORL-FSF-FT-11-2019-U-C\01-Class-Content\Power-Packs\C#\CatWorx.BadgeMaker\bin\Debug\netcoreapp3.0\CatWorx.BadgeMaker.dll
+g:\BLazOR\Documents\Coding-Bootcamp\UCF-ORL-FSF-FT-11-2019-U-C\01-Class-Content\Power-Packs\C#\CatWorx.BadgeMaker\bin\Debug\netcoreapp3.0\CatWorx.BadgeMaker.pdb
+g:\BLazOR\Documents\Coding-Bootcamp\UCF-ORL-FSF-FT-11-2019-U-C\01-Class-Content\Power-Packs\C#\CatWorx.BadgeMaker\obj\Debug\netcoreapp3.0\CatWorx.BadgeMaker.csprojAssemblyReference.cache
+g:\BLazOR\Documents\Coding-Bootcamp\UCF-ORL-FSF-FT-11-2019-U-C\01-Class-Content\Power-Packs\C#\CatWorx.BadgeMaker\obj\Debug\netcoreapp3.0\CatWorx.BadgeMaker.AssemblyInfoInputs.cache
+g:\BLazOR\Documents\Coding-Bootcamp\UCF-ORL-FSF-FT-11-2019-U-C\01-Class-Content\Power-Packs\C#\CatWorx.BadgeMaker\obj\Debug\netcoreapp3.0\CatWorx.BadgeMaker.AssemblyInfo.cs
+g:\BLazOR\Documents\Coding-Bootcamp\UCF-ORL-FSF-FT-11-2019-U-C\01-Class-Content\Power-Packs\C#\CatWorx.BadgeMaker\obj\Debug\netcoreapp3.0\CatWorx.BadgeMaker.dll
+g:\BLazOR\Documents\Coding-Bootcamp\UCF-ORL-FSF-FT-11-2019-U-C\01-Class-Content\Power-Packs\C#\CatWorx.BadgeMaker\obj\Debug\netcoreapp3.0\CatWorx.BadgeMaker.pdb
